@@ -104,4 +104,4 @@ Execute the Streamlit application from the project root directory:
 streamlit run dashboard/app.py 
 ```
 
-The application will open in your web browser, typically at `http://localhost:8501`.
+The application will open in your web browser, typically at `http://localhost:8501` or `https://inventory-handling.streamlit.app/` .
